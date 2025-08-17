@@ -1,2 +1,1 @@
-# Dotnet-build-web-app-issues-
-i,  Built a project earlier without any errors (targeted netcoreapp1.0).  Went on to another project (netcoreapp1.1) and it worked at a start. Then I migrated it to the new VS17 RC2 csproj-style (as i did with the previous) and now it stopped working. Tried to switch to netcoreapp1.0 but without any result. The project has built just fine on Mac (now it probably wont :)
+
